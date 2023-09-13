@@ -25,13 +25,13 @@ environments {
     test {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:postgresql://localhost:5432/concot"
+            url = "jdbc:postgresql://localhost:5432/concot_test"
         }
     }
     production {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:postgresql://localhost:5432/concot"
+            url = "jdbc:postgresql://localhost:5432/concot_prod"
             dbProperties {
                 // See http://grails.org/doc/latest/guide/conf.html#dataSource for documentation
                 jmxEnabled = true
