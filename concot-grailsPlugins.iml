@@ -149,7 +149,6 @@
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.5.0/dist/grails-encoder-2.5.0.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.5.0/dist/grails-web-gsp-taglib-2.5.0.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-gorm-hibernate-core/3.1.4.RELEASE/grails-datastore-gorm-hibernate-core-3.1.4.RELEASE.jar!/" />
-          <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.1.5.RELEASE/spring-orm-4.1.5.RELEASE.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-gorm-plugin-support/3.1.4.RELEASE/grails-datastore-gorm-plugin-support-3.1.4.RELEASE.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-gorm-hibernate4/3.1.4.RELEASE/grails-datastore-gorm-hibernate4-3.1.4.RELEASE.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/4.0.4.Final/hibernate-commons-annotations-4.0.4.Final.jar!/" />
