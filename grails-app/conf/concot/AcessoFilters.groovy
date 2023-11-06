@@ -14,6 +14,12 @@ class AcessoFilters {
                     redirect(uri:'/')
                 }
             }
+
+            after = {
+                if(session['usuario'] && controllerName == null) {
+                    redirect(uri:'/home')
+                }
+            }
         }
     }
 }

@@ -7,7 +7,7 @@ class AutenticacaoController {
 
         if (registro) {
             session['usuario'] = registro
-            redirect(controller:'cotacao')
+            redirect(uri:'/home')
         } else {
             flash.message = "Acesso negado"
             redirect(uri:'/')
