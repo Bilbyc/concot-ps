@@ -5825,3 +5825,13 @@ n:1383:org/codehaus/groovy/classgen/EnumCompletionVisitor$1
 n:918:org/codehaus/groovy/grails/exceptions/GrailsConfigurationException
 n:1835:sl/org/objectweb/asm/tree/LookupSwitchInsnNode
 n:2275:org/codehaus/groovy/grails/commons/GrailsApplication$isArtefactOfType$0
+n:311:org/codehaus/groovy/grails/orm/support/TransactionManagerAware
+n:379:org/springframework/transaction/TransactionStatus
+n:376:org/springframework/transaction/SavepointManager
+n:614:org/springframework/transaction/TransactionException
+n:1411:grails/transaction/Transactional
+n:1649:org/springframework/transaction/annotation/Propagation
+n:1539:org/springframework/transaction/annotation/Isolation
+n:19990:org/codehaus/groovy/grails/transaction/transform/TransactionalTransform
+n:390:javax/annotation/PreDestroy
+n:483:grails/transaction/NotTransactional
